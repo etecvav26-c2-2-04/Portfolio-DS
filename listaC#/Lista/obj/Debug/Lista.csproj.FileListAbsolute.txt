@@ -1,0 +1,14 @@
+C:\Users\gahga\listaC#\Lista\bin\Debug\Lista.exe.config
+C:\Users\gahga\listaC#\Lista\bin\Debug\Lista.exe
+C:\Users\gahga\listaC#\Lista\bin\Debug\Lista.pdb
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.exe
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.pdb
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.pgInicial.resources
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.Media.resources
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.Nado.resources
+C:\Users\gahga\listaC#\Lista\obj\Debug\Lista.Triangulo.resources
