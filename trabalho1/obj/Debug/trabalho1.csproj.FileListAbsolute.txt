@@ -1,0 +1,13 @@
+D:\VS\MauiApp1\trabalho1\bin\Debug\trabalho1.exe.config
+D:\VS\MauiApp1\trabalho1\bin\Debug\trabalho1.exe
+D:\VS\MauiApp1\trabalho1\bin\Debug\trabalho1.pdb
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.csproj.AssemblyReference.cache
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.Properties.Resources.resources
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.csproj.GenerateResource.cache
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.csproj.CoreCompileInputs.cache
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.exe
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.pdb
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.aluno.resources
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.menuprincipal.resources
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.natacao.resources
+D:\VS\MauiApp1\trabalho1\obj\Debug\trabalho1.triangulo.resources
